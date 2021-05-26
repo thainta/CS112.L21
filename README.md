@@ -9,3 +9,4 @@
 | 1 | Nguyễn Thừa An Thái | 19522192 | 19522192@gm.uit.edu.vn |  [thainta](https://github.com/thainta)|
 | 2 | Lê Duy Hoàng | 19521533 | 19521533@gm.uit.edu.vn | [DyHon](https://github.com/DyHon) |
 | 3 | Phan Gia Phương | 19522067 | 19522067@gm.uit.edu.vn |[UIT-thegp](https://github.com/UIT-thegp)|
+| 3 | Trần Xuân Ánh | 17520255 | 17520255@gm.uit.edu.vn |[TranXuanAnh](https://github.com/17520255)|
